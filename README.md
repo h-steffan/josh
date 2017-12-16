@@ -35,10 +35,12 @@ Features:
 - written in simple perl each and every c or c++ programmer will understand
 - messy code ;-)
 
-Remarks of Dec 2017i, 16th:
-- the main routing gojosh usually can do a sequence of runs without deleting just to sync all the system, later
+Remarks of Dec 2017, 16th:
+- the main routine gojosh usually can do a sequence of runs without deleting just to sync all the system, later
 after some runs deleting is enabled
 - delete routines are generally decommented / disabled to do debugging
-- check the issue and bug section for issues I am working on
+- gojosh.sh calls main.pl, then several sub routines are called covering the main features, names are explaining what the function is or what feaure is covered 
 - not all of the code is actually used, file perf.sh just used as another test file, there might be some other.
 - code has still many examples and links included to check and learn
+- check the issue and bug section for issues I am working on
+
