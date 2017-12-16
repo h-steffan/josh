@@ -9,7 +9,7 @@ Lastly the code needs a complete review and clean-up.
 
 Prerequisites:
 - perl
-- use cpan to install some perl libs as described in the head of gojosh.shl
+- use cpan to install some perl libs as described in the head of gojosh.sh like cpan DateTime::Locale Params::ValidationCompiler DateTime::TimeZone DateTime Date::Calc Date::Parse Time:Piece Digest:MD5:File YAML
 - install locally and remote rsync and scp if not available yet
 - establish a central hub which is reachable by any scp or rsync command by all clients intended (I use a remote vm)
 - make sure all your clients can reach the hub passwordless (google if this sounds difficult)
