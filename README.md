@@ -13,7 +13,8 @@ Prerequisites:
 - install locally and remote rsync and scp if not available yet
 - establish a central hub which is reachable by any scp or rsync command
 - make sure all your clients can reach the hub passwordless by scp or rsync (google if this sounds difficult)
-- edit the .general conf file and add an IP address you can reach, delete my address
+- create an user which could be used on allsystems, all clients and the hub
+- edit the .general conf file and add an IP address you can reach, delete my address, add your user
 - run gojosh.sh to sync the own directory where all this stuff is in
 - do some tests with file name like "Sat Dec 16 07:17:01 2017"
 - report bugs
