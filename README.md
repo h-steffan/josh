@@ -28,10 +28,10 @@ Features:
 - check if only one instance is running on a client
 - adotping sligh time differences between hub and clients by storing the bias
 - when deleting move file instead to a versioning tree with date marked outside the folder tree under sync
-- exclude files which are considered to be client only using the .exclude ....
-- getting alerted when files are uploaded by using the .alter ....
+- exclude files which are considered to be client only using the .exclude* file
+- getting alerted when files are uploaded by using the .alert* file
 - running on all windows having perl or cygwin with perl
-- low memory required, can run on pi which are problematic to run java on
+- low memory required, can run on pis which are problematic to run java on
 - written in simple perl each and every c or c++ programmer will understand
 - messy code ;-)
 
