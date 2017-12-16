@@ -40,3 +40,5 @@ Remarks of Dec 2017i, 16th:
 after some runs deleting is enabled
 - delete routines are generally decommented / disabled to do debugging
 - check the issue and bug section for issues I am working on
+- not all of the code is actually used, file perf.sh just used as another test file, there might be some other.
+- code has still many examples and links included to check and learn
