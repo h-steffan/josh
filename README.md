@@ -1,1 +1,1 @@
-# josh
+Folder synchronisation by minimum means for all platforms with perl a- looking for supporters and contributer esp. for debugging and optimising - based partly on BitPocket which is written in bash. The Upload sync as well as the download sync basically works with multiple clients and a central host, however, there are minor bugs with non standard filenames. Syncing in terms of deleting files need a significant review.
