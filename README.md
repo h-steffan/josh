@@ -22,6 +22,7 @@ Prerequisites:
 
 Features:
 - syncing a folder tree by downloading and uploading files from multiple clients
+- new file wins over the older file
 - lock to one active client to make sure a single sync procedure is ongoing, all other clients waiting
 - break your own lock in case you have been interrupted
 - check if only one instance is running on a client
@@ -29,5 +30,4 @@ Features:
 - when deleting move file instead to a versioning tree with date marked outside the folder tree under sync
 - exclude files which are considered to be client only using the .exclude ....
 - getting alerted when files are uploaded by using the .alter ....
-
 
