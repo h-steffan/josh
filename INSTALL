@@ -1,0 +1,11 @@
+Guess you need to do something like
+
+# apt-get install rsync gcc make
+# yast install rsync rsync gcc make
+#
+#ste@debian8l:~$ mkdir /tmp/myowncloud
+#ste@debian8l:~$ echo "NO_RUN" > /tmp/myowncloud/myowncloud.lock
+#ste@debian8l:~$ mkdir /tmp/myowncloud/bin
+
+#cpan -f Params::ValidationCompiler
+#cpan DateTime::Locale Params::ValidationCompiler DateTime::TimeZone DateTime Date::Calc Date::Parse Time:Piece Digest:MD5:File YAML
