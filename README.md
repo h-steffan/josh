@@ -30,5 +30,13 @@ Features:
 - when deleting move file instead to a versioning tree with date marked outside the folder tree under sync
 - exclude files which are considered to be client only using the .exclude ....
 - getting alerted when files are uploaded by using the .alter ....
+- running on all windows having perl or cygwin with perl
+- low memory required, can run on pi which are problematic to run java on
 - written in simple perl each and every c or c++ programmer will understand
 - messy code ;-)
+
+Remarks of Dec 2017i, 16th:
+- the main routing gojosh usually can do a sequence of runs without deleting just to sync all the system, later
+after some runs deleting is enabled
+- delete routines are generally decommented / disabled to do debugging
+- check the issue and bug section for issues I am working on
